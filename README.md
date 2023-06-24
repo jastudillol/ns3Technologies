@@ -7,7 +7,6 @@ This repository contains modules implementing the LoRa and 802.11s wireless tech
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 
